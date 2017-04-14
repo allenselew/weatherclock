@@ -11,5 +11,10 @@ Desk Clock with a dial for scrolling through the day's weather forecast
 * A cron job queries the api to update the forecast.
 * LEDs inside the case will change color in accordance with the weather.  The goal being that you can look at the clock from any angle and know what the current conditions are.
 
+## Parts List
+* [Rotary Encoder](https://www.adafruit.com/product/377)
+* [Solid Machined Metal Knob](https://www.adafruit.com/product/2056)
+* [3.5" Touchscreen Display](https://www.adafruit.com/product/2441)
+
 ## References
 * https://github.com/n0bel/PiClock is an excellent RPI clock which may be a great starting point.
